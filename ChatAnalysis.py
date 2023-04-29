@@ -135,7 +135,9 @@ class ChatAnalysis:
             self.income_by_video[vid_seq] = video_total_income
             self.set_income_by_month(vid_seq[:6], video_total_income)
             processed_video_count += 1
-            #print(f'No.{processed_video_count} Video {video} total income: {video_total_income} USD')
+            print('\r', 'Processing: ', processed_video_count, '/', len(self.video_list), end='')
+            # print(f'No.{processed_video_count} Video {video} total income: {video_total_income} USD')
+        print('')
 
     def analysis_all(self):
         """
@@ -145,7 +147,7 @@ class ChatAnalysis:
         self.analysis_paid_message()
         self.analysis_membership()
         print('')
-        print(f'Total income on Youtube: {round(self.total_income_in_usd+self.total_membership_revenue, 2)} USD')
+        print(f'Total income on Youtube: {round(self.total_income_in_usd + self.total_membership_revenue, 2)} USD')
 
     def analysis_paid_message(self):
         """
@@ -231,7 +233,7 @@ class ChatAnalysis:
         distro_arr = np.empty((0, 2))
         for i in unique_arr:
             distro_arr = np.append(distro_arr, np.array([[i, np.count_nonzero(self.membership == i)]]), axis=0)
-        plt.bar(distro_arr[:, 0].astype(str), distro_arr[:, 1], color='#960019')  # plot bar plot
+        plt.bar(distro_arr[:, 0].astype(int).astype(str), distro_arr[:, 1], color='#960019')  # plot bar plot
         # add bar height to the bar plot
         for i, v in enumerate(distro_arr[:, 1]):
             plt.text(i, v + 0.5, str(v.astype(int)), ha='center', fontweight='bold')
