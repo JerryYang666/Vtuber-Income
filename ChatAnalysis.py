@@ -145,7 +145,10 @@ class ChatAnalysis:
         analysis and plot all the data
         :return:
         """
+        self.all_prints.append(' ')
+        print('Paid message plots:')
         self.analysis_paid_message()
+        print('Membership plots:')
         self.analysis_membership()
         self.all_prints.append(' ')
         self.all_prints.append(f'Total income on Youtube: {round(self.total_income_in_usd + self.total_membership_revenue, 2)} USD')
@@ -158,9 +161,13 @@ class ChatAnalysis:
         :return:
         """
         self.all_prints.append(f'Total paid message revenue: {round(self.total_income_in_usd, 2)} USD')
+        print('Income by currency:')
         self.plot_income_by_currency()
+        print('Income by month:')
         self.plot_income_by_month()
+        print('Income by video:')
         self.plot_income_by_video()
+        print('Key word cloud from all paid messages:')
         self.plot_word_cloud()
 
     def plot_income_by_video(self):
