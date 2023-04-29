@@ -1,0 +1,1538 @@
+{
+  "https://www.youtube.com/watch?v=mw-Y-zyqnQA": {
+    "title": "\u3010POST-NUT RUNESCAPE\u3011no i will not cover them up\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-23",
+    "views": 40000,
+    "duration": 9477
+  },
+  "https://www.youtube.com/watch?v=PiMINimsG7o": {
+    "title": "\u3010RP ASMR\u3011Perhaps I Treated You Too Harshly...\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-23",
+    "views": 81963,
+    "duration": 6775
+  },
+  "https://www.youtube.com/watch?v=SqvY92E67q8": {
+    "title": "feeling horny might go live later idk",
+    "publish_date": "2023-04-22",
+    "views": 118492,
+    "duration": 8430
+  },
+  "https://www.youtube.com/watch?v=9eXovWIuSV8": {
+    "title": "\u3010NEW OUTFIT REVEAL\u3011It's so cold here... #LuxiemOutfitRelay",
+    "publish_date": "2023-04-21",
+    "views": 431833,
+    "duration": 1813
+  },
+  "https://www.youtube.com/watch?v=KyzBCgMCASU": {
+    "title": "\u3010HAPPY WHEELS\u3011top o the morning to ya laddies my name is vox akuma\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-21",
+    "views": 55078,
+    "duration": 6767
+  },
+  "https://www.youtube.com/watch?v=rqmp2l--8es": {
+    "title": "\u3010HUMAN: FALL FLAT w/ LUXIEM\u3011the boys will fall, down with men\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-20",
+    "views": 60512,
+    "duration": 9303
+  },
+  "https://www.youtube.com/watch?v=2oVtJ5iZCpk": {
+    "title": "\u3010THE LONG DRIVE w/ LUCA\u3011\"did you remember to bring water\" \"POG\"\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-20",
+    "views": 60407,
+    "duration": 10030
+  },
+  "https://www.youtube.com/watch?v=MOPzcjP10qI": {
+    "title": "\u3010BOWSER'S FURY\u3011idc what he did i can fix him\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-19",
+    "views": 40119,
+    "duration": 10411
+  },
+  "https://www.youtube.com/watch?v=2sLOSr62WyA": {
+    "title": "\u3010DONKEY KONG COUNTRY 3\u3011sees banana\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-18",
+    "views": 44897,
+    "duration": 16722
+  },
+  "https://www.youtube.com/watch?v=61oJi3imwos": {
+    "title": "\u3010WHO'S YOUR DADDY?! w/ DOPPIO\u3011mmhggmhmfmm\ud83d\ude0b batteries hehe \ud83e\udd24 yum :))) \u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-15",
+    "views": 131446,
+    "duration": 9948
+  },
+  "https://www.youtube.com/watch?v=iR7pik_FGyo": {
+    "title": "\u3010DEMON REVIEWS\u3011THE SUPER MARIO BROS MOVIE REVIEW + DISCUSSION\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-06",
+    "views": 39579,
+    "duration": 4727
+  },
+  "https://www.youtube.com/watch?v=tmj03RTpZvw": {
+    "title": "\u3010HANDCAM\u3011VOX AKUMA ATTEMPTS THE HOT ONES CHALLENGE\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-05",
+    "views": 128600,
+    "duration": 7372
+  },
+  "https://www.youtube.com/watch?v=0tQuK0MiFG0": {
+    "title": "\u3010MINECRAFT\u3011Milord is home, time to build\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-04-04",
+    "views": 87556,
+    "duration": 14720
+  },
+  "https://www.youtube.com/watch?v=15RGF9EKW1o": {
+    "title": "\u3010POST-NUT RUNESCAPE\u3011LAST STREAM BEFORE BREAK\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-26",
+    "views": 49598,
+    "duration": 3335
+  },
+  "https://www.youtube.com/watch?v=vwYxjkGUqrE": {
+    "title": "RP ASMR: You and your boyfriend make up after an argument\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-26",
+    "views": 186764,
+    "duration": 5921
+  },
+  "https://www.youtube.com/watch?v=FJVxONUyj_E": {
+    "title": "\u3010PUPPET COMBO MARATHON\u3011nun massacre? i hardly know her\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-25",
+    "views": 53522,
+    "duration": 9551
+  },
+  "https://www.youtube.com/watch?v=ysCwxlbN9mk": {
+    "title": "Country Roads~ \u3010Under the Table - Episode 8 Feat. RT GAME\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-24",
+    "views": 82031,
+    "duration": 12038
+  },
+  "https://www.youtube.com/watch?v=b1dlrhmlG5Q": {
+    "title": "\u3010DONKEY KONG COUNTRY 3\u3011I GUESS\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-21",
+    "views": 51280,
+    "duration": 14460
+  },
+  "https://www.youtube.com/watch?v=enZfrR96TAs": {
+    "title": "\u3010POST-NUT RUNESCAPE\u3011literally\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-19",
+    "views": 68819,
+    "duration": 3677
+  },
+  "https://www.youtube.com/watch?v=LQeinYQFNx8": {
+    "title": "\u3010TATTOO ARTIST RP ASMR\u3011Try to endure it for me, baby\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-19",
+    "views": 315044,
+    "duration": 7131
+  },
+  "https://www.youtube.com/watch?v=UBWTX249HOQ": {
+    "title": "BILLIE EILISH KARAOKE AFTER PARTY\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-18",
+    "views": 50819,
+    "duration": 4162
+  },
+  "https://www.youtube.com/watch?v=88JlXai_OHs": {
+    "title": "BEATING DARK SOULS 3 WITH ONLY A BROKEN SWORD\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-17",
+    "views": 76258,
+    "duration": 42752
+  },
+  "https://www.youtube.com/watch?v=G00a7x2xBuM": {
+    "title": "\u3010MARIOKART w/ THE BOYS\u3011a gentleman's game of 50 car pile up on the I95\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-16",
+    "views": 88248,
+    "duration": 9840
+  },
+  "https://www.youtube.com/watch?v=NmU7iSy-tr8": {
+    "title": "\u3010LITTLE MISFORTUNE\u3011IM NOT LITTLE HOW DARE YOU\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-15",
+    "views": 168159,
+    "duration": 11128
+  },
+  "https://www.youtube.com/watch?v=Y_PkOs4QRXs": {
+    "title": "\u3010WHITE DAY ASMR\u3011How Can I Make You Happy?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-14",
+    "views": 93214,
+    "duration": 9169
+  },
+  "https://www.youtube.com/watch?v=lTl07PzAH60": {
+    "title": "\u301024 HOUR CHARITY STREAM PART 2\u3011Raising $100,000 In Support of SAVE\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-10",
+    "views": 324297,
+    "duration": 42556
+  },
+  "https://www.youtube.com/watch?v=lr7K5urRcog": {
+    "title": "\u301024 HOUR CHARITY STREAM\u3011Raising $100,000 In Support of SAVE\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-10",
+    "views": 303268,
+    "duration": 42768
+  },
+  "https://www.youtube.com/watch?v=p71xG7U3TY8": {
+    "title": "\u3010MELATONIN\u3011HONK SHOO HONK SHOO RIBIBIBIBI\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-09",
+    "views": 65560,
+    "duration": 8820
+  },
+  "https://www.youtube.com/watch?v=mC4DL0KFJe0": {
+    "title": "\u3010MINECRAFT\u3011so much has changed...\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-08",
+    "views": 83795,
+    "duration": 13926
+  },
+  "https://www.youtube.com/watch?v=Y8R88CTtU2k": {
+    "title": "\u3010DONKEY KONG COUNTRY 2\u3011i hold my son's body in my arms i ask god why\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-07",
+    "views": 64114,
+    "duration": 26124
+  },
+  "https://www.youtube.com/watch?v=b087XtwKdYE": {
+    "title": "\u3010POST NUT RUNESCAPE\u3011plants vs zombies garden warfare type beat\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-06",
+    "views": 27528,
+    "duration": 2353
+  },
+  "https://www.youtube.com/watch?v=d0h-AftvCgQ": {
+    "title": "\u3010RP ASMR APOCALYPSE SURVIVORS\u3011I thought I was the only one left...\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-06",
+    "views": 142261,
+    "duration": 7321
+  },
+  "https://www.youtube.com/watch?v=XEKPbKKvAtM": {
+    "title": "\u3010UNTITLED GOOSE GAME\u3011yknow, im something of a menace to society myself\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-04",
+    "views": 109166,
+    "duration": 10428
+  },
+  "https://www.youtube.com/watch?v=Up_1gjuVIJs": {
+    "title": "\u3010THE KARAOKE\u3011tito vox conquers his demons\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-03",
+    "views": 96768,
+    "duration": 8140
+  },
+  "https://www.youtube.com/watch?v=NOdKAPpRe2E": {
+    "title": "\u3010TWELVE MINUTES\u3011but i got as many minutes as u want bbg aha *screech*\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-03-02",
+    "views": 103784,
+    "duration": 18132
+  },
+  "https://www.youtube.com/watch?v=YCjcOxJOOmE": {
+    "title": "where i've been",
+    "publish_date": "2023-03-02",
+    "views": 87792,
+    "duration": 4633
+  },
+  "https://www.youtube.com/watch?v=LtZO4ed9eT8": {
+    "title": "\u3010NINTENDOGS\u3011\ud83d\udc15WOOF ARF BARK WOOF WOOF BARK BARK ARF SNIFF SNIFF AWOOO\ud83d\udc36\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-02-10",
+    "views": 138197,
+    "duration": 8431
+  },
+  "https://www.youtube.com/watch?v=wPt5vEHEJkA": {
+    "title": "\u3010DRUNK CHATTING ASMR\u3011hey  *flushge*\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-02-09",
+    "views": 124550,
+    "duration": 7284
+  },
+  "https://www.youtube.com/watch?v=GiRbNlJhv5M": {
+    "title": "watch in horror as vox akuma realises his copy of nintendogs is region locked and plays wow instead",
+    "publish_date": "2023-02-08",
+    "views": 75381,
+    "duration": 7552
+  },
+  "https://www.youtube.com/watch?v=sPkDEAmjXck": {
+    "title": "VOX AKUMA BEGINS DK COUNTRY 2 - I GENUINELY LOVE THESE GAMES NOW WTF\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-02-07",
+    "views": 61293,
+    "duration": 18026
+  },
+  "https://www.youtube.com/watch?v=wRw-mXxWXHw": {
+    "title": "\u3010POST-NUT RUNESCAPE\u3011read 'em like a book ayo\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-02-04",
+    "views": 64736,
+    "duration": 3179
+  },
+  "https://www.youtube.com/watch?v=i1AZRULby-g": {
+    "title": "\u3010LIBRARIAN RP ASMR\u3011If you won't be quiet, I'll shut you up\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-02-04",
+    "views": 453029,
+    "duration": 7212
+  },
+  "https://www.youtube.com/watch?v=7c4TOO85u6c": {
+    "title": "\u3010HORROR HUSBANDOS RETURN\u3011YUME NIKKI w/ IKE!!!\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2023-02-02",
+    "views": 386398,
+    "duration": 14148
+  },
+  "https://www.youtube.com/watch?v=-mZxn0udtQE": {
+    "title": "So many projects... let's take a look! Thank you kindred \u2764\ufe0f",
+    "publish_date": "2023-02-01",
+    "views": 50297,
+    "duration": 8440
+  },
+  "https://www.youtube.com/watch?v=RsSc6frJtBA": {
+    "title": "if i fail to beat donkey kong country for the stupid nintendo today i will jump off dk mountain",
+    "publish_date": "2023-01-31",
+    "views": 68075,
+    "duration": 14365
+  },
+  "https://www.youtube.com/watch?v=aigZeJUGnqU": {
+    "title": "asmr: your boyfriend still loves you, even though you are a worm",
+    "publish_date": "2023-01-29",
+    "views": 252224,
+    "duration": 6961
+  },
+  "https://www.youtube.com/watch?v=ZTIgvKBcCvE": {
+    "title": "WHO LET THIS MAN COOK???\u3010Under the Table - Episode 7 Feat. DOPPIO DROPSCYTHE\u3011",
+    "publish_date": "2023-01-28",
+    "views": 165165,
+    "duration": 10912
+  },
+  "https://www.youtube.com/watch?v=I8lW5ivMzf4": {
+    "title": "Reading ASMR: The Picture of Dorian Gray by Oscar Wilde, Chapters 8-10",
+    "publish_date": "2023-01-28",
+    "views": 53752,
+    "duration": 6476
+  },
+  "https://www.youtube.com/watch?v=h_miPxl892Q": {
+    "title": "KNITTING HANDCAM - I FORGOR HOW TO KNIT LET'S REMEMBER TOGETHER",
+    "publish_date": "2023-01-26",
+    "views": 158405,
+    "duration": 10317
+  },
+  "https://www.youtube.com/watch?v=nk1h-VBe0jM": {
+    "title": "Let's write a movie together!",
+    "publish_date": "2023-01-26",
+    "views": 60283,
+    "duration": 7291
+  },
+  "https://www.youtube.com/watch?v=9xajjY7-YUs": {
+    "title": "beating king k rool to death \u3010DONKEY KONG COUNTRY\u3011",
+    "publish_date": "2023-01-25",
+    "views": 53605,
+    "duration": 12767
+  },
+  "https://www.youtube.com/watch?v=h_DjPBCviO0": {
+    "title": "MEMBERSHIP 1 YEAR CELEBRATION ZATSU \u3010OUR FIRST YEAR LOOKING BACK + FUTURE PLANS\u3011",
+    "publish_date": "2023-01-23",
+    "views": 56402,
+    "duration": 5384
+  },
+  "https://www.youtube.com/watch?v=fb1HwdN8kmo": {
+    "title": "becoming an absolute maniac and beating the shit out of your dad",
+    "publish_date": "2023-01-21",
+    "views": 77507,
+    "duration": 5999
+  },
+  "https://www.youtube.com/watch?v=TB75nRfFfkw": {
+    "title": "\u2764\ufe0f im home from japan, I MISS YOUUUU\u2764\ufe0f",
+    "publish_date": "2023-01-21",
+    "views": 158724,
+    "duration": 7411
+  },
+  "https://www.youtube.com/watch?v=D4gfPD-3glA": {
+    "title": "\u3010ASMR\u3011 These changed my shower forever... \u3010Takagi Shower Heads\u3011",
+    "publish_date": "2023-01-13",
+    "views": 134692,
+    "duration": 3620
+  },
+  "https://www.youtube.com/watch?v=T9uxxaxkG68": {
+    "title": "I'M WITH MY BOYSSSS but i kinda miss ur ass,,,",
+    "publish_date": "2023-01-13",
+    "views": 132356,
+    "duration": 7539
+  },
+  "https://www.youtube.com/watch?v=sHt45e6c11I": {
+    "title": "BINAURAL ASMR: Slime, popping, crunchy tingles and soft talking; Vox Akuma finally tries NORMAL ASMR",
+    "publish_date": "2023-01-08",
+    "views": 138349,
+    "duration": 7504
+  },
+  "https://www.youtube.com/watch?v=K2pCiDPoF1w": {
+    "title": "CAN'T OUTRUN MY DEMONS IF I AM ONE MYSELF\u3010CHOO-CHOO CHARLES\u3011",
+    "publish_date": "2023-01-06",
+    "views": 101502,
+    "duration": 10596
+  },
+  "https://www.youtube.com/watch?v=lcgt3qGP6Qo": {
+    "title": "THEY MADE A VOX AKUMA NENDOROID",
+    "publish_date": "2023-01-05",
+    "views": 120732,
+    "duration": 3411
+  },
+  "https://www.youtube.com/watch?v=rOikb26jXZA": {
+    "title": "TEACHING NIJI EN TO STAR IN A PLAY",
+    "publish_date": "2023-01-05",
+    "views": 210172,
+    "duration": 6350
+  },
+  "https://www.youtube.com/watch?v=Z9ZdyZCCUEg": {
+    "title": "VOX AKUMA SHOOTS SANS UNDERTALE DEAD IN A DENNY'S PARKING LOT\u3010UNDERTALE GENOCIDE SPEEDRUN\u3011",
+    "publish_date": "2023-01-04",
+    "views": 82328,
+    "duration": 12238
+  },
+  "https://www.youtube.com/watch?v=no4fmj4fs6o": {
+    "title": "Reading ASMR: The Picture of Dorian Gray by Oscar Wilde, Chapters 4-7",
+    "publish_date": "2023-01-04",
+    "views": 62171,
+    "duration": 7908
+  },
+  "https://www.youtube.com/watch?v=Ij4BUhdiiJA": {
+    "title": "VOX AKUMA RETURNS TO MONKE\u3010DONKEY KONG COUNTRY\u3011",
+    "publish_date": "2023-01-03",
+    "views": 75867,
+    "duration": 14659
+  },
+  "https://www.youtube.com/watch?v=eX2uGZJ_8rU": {
+    "title": "FOXAKUMA PLAY CLUBHOUSE GAMES FOR REAL THIS TIME",
+    "publish_date": "2023-01-02",
+    "views": 182195,
+    "duration": 9203
+  },
+  "https://www.youtube.com/watch?v=177bdgmruJE": {
+    "title": "I BEAT EVERY FNAF GAME IN ONE SITTING",
+    "publish_date": "2023-01-01",
+    "views": 194089,
+    "duration": 17259
+  },
+  "https://www.youtube.com/watch?v=qN4f_IKqX-c": {
+    "title": "HAPPY NEW YEAR from VOX :DDDD",
+    "publish_date": "2022-12-31",
+    "views": 198071,
+    "duration": 15200
+  },
+  "https://www.youtube.com/watch?v=uznyq0cdYrM": {
+    "title": "AFTERPARTY - Merry Christmas, Kindred!",
+    "publish_date": "2022-12-23",
+    "views": 70218,
+    "duration": 4915
+  },
+  "https://www.youtube.com/watch?v=I-FPySobZ_M": {
+    "title": "Reading ASMR: The Picture of Dorian Gray by Oscar Wilde, Chapters 1-3",
+    "publish_date": "2022-12-22",
+    "views": 119666,
+    "duration": 7405
+  },
+  "https://www.youtube.com/watch?v=_7pEPQQyVoQ": {
+    "title": "Happy Anniversary, let's talk \ud83d\udc8b",
+    "publish_date": "2022-12-21",
+    "views": 76321,
+    "duration": 3952
+  },
+  "https://www.youtube.com/watch?v=ncHvLbDXWyQ": {
+    "title": "WHO SAID THAT QUOTE???? \u3010LUXIEM ANNIVERSARY GAMESHOW\u3011",
+    "publish_date": "2022-12-20",
+    "views": 564203,
+    "duration": 8755
+  },
+  "https://www.youtube.com/watch?v=p2jRnNKSePk": {
+    "title": "UNDER THE TABLE OPEN-TOTSU EDITION (I HOPE SOMEBODY COMES) \u3010EPISODE 6\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-12-15",
+    "views": 253405,
+    "duration": 7443
+  },
+  "https://www.youtube.com/watch?v=lIKizLV5Tio": {
+    "title": "\ud83d\ude0f\ud83d\ude18\ud83e\udd75\ud83d\ude34",
+    "publish_date": "2022-12-13",
+    "views": 125313,
+    "duration": 7228
+  },
+  "https://www.youtube.com/watch?v=8NEkxK5L62U": {
+    "title": "\u3010KNIGHT RP ASMR CHAPTER 2\u3011At last... it's quiet\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-12-11",
+    "views": 131596,
+    "duration": 7158
+  },
+  "https://www.youtube.com/watch?v=j-Qzc4vj85I": {
+    "title": "\u3010GENSHIN WHALING/STORY\u3011SCARAMOUCHE ME BOY YER SPENDIN ALL ME MONEYYYY\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-12-10",
+    "views": 178175,
+    "duration": 15336
+  },
+  "https://www.youtube.com/watch?v=QDYLrui0mkc": {
+    "title": "GIGABRAIN VOX AKUMA ANALYSES THE MEANING OF HIS VIEWERS' INSANE DREAMS",
+    "publish_date": "2022-12-09",
+    "views": 67320,
+    "duration": 7231
+  },
+  "https://www.youtube.com/watch?v=-nZsiCbujoE": {
+    "title": "\u3010BLOODBORNE Pt 2\u3011Completing the broc saga\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-12-08",
+    "views": 78375,
+    "duration": 29761
+  },
+  "https://www.youtube.com/watch?v=h4FhxzgUOSQ": {
+    "title": "\u3010BIG AMONGUS VR COLLAB\u3011i love this game\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-12-07",
+    "views": 114258,
+    "duration": 9641
+  },
+  "https://www.youtube.com/watch?v=fkomNj5FEa8": {
+    "title": "\u3010BITTER ACTING RIVALS RP ASMR\u3011We'll sit here until you learn your lines\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-12-06",
+    "views": 247940,
+    "duration": 7175
+  },
+  "https://www.youtube.com/watch?v=bSMm3AN7IRY": {
+    "title": "\u3010UNRAVEL TWO w/ SHOTO\u3011just like old times\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-12-03",
+    "views": 149567,
+    "duration": 15301
+  },
+  "https://www.youtube.com/watch?v=coEjtsYji2g": {
+    "title": "\u3010ASMR MINECRAFT\u3011cuddling with your demon bf while he plays the block game\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-30",
+    "views": 118901,
+    "duration": 11550
+  },
+  "https://www.youtube.com/watch?v=9eiG20Emoxw": {
+    "title": "\u3010NEW CYDONIA SUPAS\u3011Brighten Up My Weather\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-30",
+    "views": 50198,
+    "duration": 3687
+  },
+  "https://www.youtube.com/watch?v=RPTcG9Dx6zU": {
+    "title": "\u3010BLOODBORNE FULL PLAYTHROUGH\u3011i am become broccoli, destroyer of nightmares\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-28",
+    "views": 141548,
+    "duration": 42900
+  },
+  "https://www.youtube.com/watch?v=LV3gVskDeqQ": {
+    "title": "\u3010POST NUT RUNESCAPE\u3011HE LIVES\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-27",
+    "views": 42099,
+    "duration": 3209
+  },
+  "https://www.youtube.com/watch?v=ctDjrnQaOBU": {
+    "title": "\u3010SECRET AGENT RP ASMR\u3011Get In My Way and I'll Leave You Behind\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-27",
+    "views": 383368,
+    "duration": 6296
+  },
+  "https://www.youtube.com/watch?v=zhcYyQ--uJ0": {
+    "title": "\u3010NEEDY STREAMER OVERLOAD\u3011getting as many bad endings as possible\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-26",
+    "views": 81372,
+    "duration": 11858
+  },
+  "https://www.youtube.com/watch?v=HoMuEpi6P5w": {
+    "title": "\u3010OVERWATCH 2 w/ MUMA\u3011 A PRO OVERWATCH PLAYER TEACHES ME HOW TO PLAY TANK \ud83d\ude30",
+    "publish_date": "2022-11-25",
+    "views": 37528,
+    "duration": 10287
+  },
+  "https://www.youtube.com/watch?v=oqMEMTDfcZ0": {
+    "title": "NEW CYDONIA AFTER PARTY\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-25",
+    "views": 85664,
+    "duration": 5007
+  },
+  "https://www.youtube.com/watch?v=kE1zbsy93xc": {
+    "title": "ADORABLE DEMON VOX AKUMA PLAYS MARIOKART DS AND IS NOSTALGIC",
+    "publish_date": "2022-11-24",
+    "views": 63407,
+    "duration": 12072
+  },
+  "https://www.youtube.com/watch?v=L39rlVul-oY": {
+    "title": "\u3010ASMR\u3011your demon boyfriend plays two scary games with you",
+    "publish_date": "2022-11-23",
+    "views": 206198,
+    "duration": 11597
+  },
+  "https://www.youtube.com/watch?v=XXzTEEPX33g": {
+    "title": "CHATTING & FLIRTING & HOPEFULLY HITTING 1,200,000 SUBS",
+    "publish_date": "2022-11-22",
+    "views": 104292,
+    "duration": 7574
+  },
+  "https://www.youtube.com/watch?v=XI7I7YaE-jk": {
+    "title": "they used to call me the crab man back in college\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-20",
+    "views": 89737,
+    "duration": 8997
+  },
+  "https://www.youtube.com/watch?v=9PG0FD5Ich0": {
+    "title": "\u3010AMONG US VR COLLAB\u3011getting sussed out never felt so real\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-18",
+    "views": 126003,
+    "duration": 10379
+  },
+  "https://www.youtube.com/watch?v=5miMFELK100": {
+    "title": "SURPRISE OW2 POV FROM MILORD",
+    "publish_date": "2022-11-14",
+    "views": 67958,
+    "duration": 10848
+  },
+  "https://www.youtube.com/watch?v=KU5LZ3qISDk": {
+    "title": "\u3010NEEDY STREAMER OVERLOAD\u3011You love me, don't you?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-12",
+    "views": 191168,
+    "duration": 12608
+  },
+  "https://www.youtube.com/watch?v=iHXVDER_HF4": {
+    "title": "\u3010MINECRAFT\u3011finally back, with you all to myself \u2764\ufe0f\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-11",
+    "views": 105308,
+    "duration": 18646
+  },
+  "https://www.youtube.com/watch?v=Htl2qHR6tMc": {
+    "title": "\u3010TROMBONE CHAMP\u3011BRAP BRAP\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-08",
+    "views": 101767,
+    "duration": 13269
+  },
+  "https://www.youtube.com/watch?v=USjpyWlHvuA": {
+    "title": "vox takes a shower",
+    "publish_date": "2022-11-08",
+    "views": 115013,
+    "duration": 2224
+  },
+  "https://www.youtube.com/watch?v=Fdul7uOfDAQ": {
+    "title": "\u3010OVERWATCH 2 RANKED\u3011THE BEST TANK IN NIJI EN PROBABLY MAYBE\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-07",
+    "views": 75621,
+    "duration": 15025
+  },
+  "https://www.youtube.com/watch?v=NZv1j9WCbWc": {
+    "title": "BEST FRENEMIES\u3010Under the Table - Episode 6 Feat. FULGUR OVID\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-06",
+    "views": 157036,
+    "duration": 14923
+  },
+  "https://www.youtube.com/watch?v=-jF2X8qIRt4": {
+    "title": "\u301018+ GAMER BOYFRIEND RP ASMR\u3011Soft Malding, Cuddling and Kissing\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-06",
+    "views": 528481,
+    "duration": 7200
+  },
+  "https://www.youtube.com/watch?v=C_WAcSmCicE": {
+    "title": "\u3010BEAT SABER WITH CUSTOM SONGS\u3011funny sword go brr\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-05",
+    "views": 105926,
+    "duration": 8439
+  },
+  "https://www.youtube.com/watch?v=cDDlIX2l_hc": {
+    "title": "WE WERE HERE TOGETHER w/ @KyoKaneko \u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-11-03",
+    "views": 100279,
+    "duration": 21171
+  },
+  "https://www.youtube.com/watch?v=S8a7bOZJs9E": {
+    "title": "\u3010POST NUT RUNESCAPE\u3011IT WORKED\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-31",
+    "views": 48863,
+    "duration": 6760
+  },
+  "https://www.youtube.com/watch?v=NfNqF3cBLm4": {
+    "title": "\u3010RP ASMR\u3011Wake Up, My Darling\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-31",
+    "views": 438139,
+    "duration": 7061
+  },
+  "https://www.youtube.com/watch?v=JsSCzs3Sa7k": {
+    "title": "i got diagnosed",
+    "publish_date": "2022-10-28",
+    "views": 244709,
+    "duration": 3294
+  },
+  "https://www.youtube.com/watch?v=Ca3AUKbvu14": {
+    "title": "\u3010ZATSUSCAPE\u3011today's the day, i will play runescape because im nervous\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-27",
+    "views": 56841,
+    "duration": 10333
+  },
+  "https://www.youtube.com/watch?v=nCRyLBR0RYc": {
+    "title": "\u3010MINECRAFT w/ IKE & REIMU\u3011teaching the mfs how to play the block game\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-26",
+    "views": 182367,
+    "duration": 19739
+  },
+  "https://www.youtube.com/watch?v=7nbtlr0ycl8": {
+    "title": "VOX AKUMA DOES MATH AND CONQUERS AN ALIEN PLANET \u3010SATISFACTORY\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-25",
+    "views": 91287,
+    "duration": 22388
+  },
+  "https://www.youtube.com/watch?v=SXb7p63DTDQ": {
+    "title": "\u3010POST NUT RUNESCAPE\u3011im going to hell\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-23",
+    "views": 76829,
+    "duration": 5975
+  },
+  "https://www.youtube.com/watch?v=cTkQ9j3z5Bk": {
+    "title": "\u3010PROFESSOR x STUDENT RP ASMR\u3011I'll need to see you after class\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-23",
+    "views": 918023,
+    "duration": 7224
+  },
+  "https://www.youtube.com/watch?v=rskVwYhcaGI": {
+    "title": "MIWOMP MIWOMP\u3010Under the Table - Episode 5 Feat. SHYLILY\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-22",
+    "views": 269123,
+    "duration": 11667
+  },
+  "https://www.youtube.com/watch?v=YhxUgtl6aDU": {
+    "title": "\u3010OVERWATCH 2 w/ EVERYONE\u3011i do not play soldier 76\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-21",
+    "views": 82279,
+    "duration": 10517
+  },
+  "https://www.youtube.com/watch?v=tNEkbnraEm8": {
+    "title": "\u3010YAOI HANDCAM COOKING\u3011Bell Pepper cups and AkuGraham BALLS\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-20",
+    "views": 286661,
+    "duration": 8967
+  },
+  "https://www.youtube.com/watch?v=8mWX_6mC4XM": {
+    "title": "\u3010World of Warcraft: CLASSIC\u3011making a warlock and summoning b*tches\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-19",
+    "views": 82024,
+    "duration": 18057
+  },
+  "https://www.youtube.com/watch?v=lBsgT2SSo10": {
+    "title": "\u3010THE BATHHOUSE\u3011ruber duky... :)))\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-18",
+    "views": 147708,
+    "duration": 12769
+  },
+  "https://www.youtube.com/watch?v=FBf5lnmrn7A": {
+    "title": "\u3010BINAURAL ASMR\u3011i miss you... jump in bed with me?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-16",
+    "views": 698346,
+    "duration": 7209
+  },
+  "https://www.youtube.com/watch?v=Id8jR9PBkYs": {
+    "title": "\u3010SPLATOON 3 TOURNAMENT\u3011i have never played this before lmao\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-16",
+    "views": 162091,
+    "duration": 13761
+  },
+  "https://www.youtube.com/watch?v=0SVjt7GU8eg": {
+    "title": "THE MEETING OF THE MONKEYS\u3010Under the Table - Episode 4 Feat. KENJI\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-15",
+    "views": 281067,
+    "duration": 9109
+  },
+  "https://www.youtube.com/watch?v=DPA3Hq6gmT4": {
+    "title": "BEATING SEKIRO WITHOUT DYING BUT IF I DO DIE I GET NAKED\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-14",
+    "views": 169166,
+    "duration": 36464
+  },
+  "https://www.youtube.com/watch?v=iWys_W3nysA": {
+    "title": "\u3010DUOLINGO ESPA\u00d1OL\u3011Gringo aprende espa\u00f1ol\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-13",
+    "views": 123642,
+    "duration": 8513
+  },
+  "https://www.youtube.com/watch?v=V5KaVGz760s": {
+    "title": "overwatch 2 instead beacuse im a silly boyt",
+    "publish_date": "2022-10-13",
+    "views": 86149,
+    "duration": 10461
+  },
+  "https://www.youtube.com/watch?v=Rv-7nBNW-So": {
+    "title": "CASTING NIJI EN IN GAMES, MOVIES & TV\u3010w/ NIJICANCELLED\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-13",
+    "views": 262135,
+    "duration": 10550
+  },
+  "https://www.youtube.com/watch?v=_UeS75YsdhQ": {
+    "title": "\u3010KUUKIYOMI: Consider It\u3011no, i don't think i will\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-10",
+    "views": 142171,
+    "duration": 8747
+  },
+  "https://www.youtube.com/watch?v=e0z1a7MtW4Y": {
+    "title": "\u3010DRUNK CHATTING ASMR\u3011join me darling, let's partake\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-09",
+    "views": 235360,
+    "duration": 10739
+  },
+  "https://www.youtube.com/watch?v=zGcY9VTHYGg": {
+    "title": "\u3010KARAOKE SUPA THANKING\u3011tskr\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-09",
+    "views": 88187,
+    "duration": 7189
+  },
+  "https://www.youtube.com/watch?v=dnb7wRTdr-Q": {
+    "title": "\u3010AFTER PARTY\u3011daddy's home starring will ferrell\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-10-08",
+    "views": 186266,
+    "duration": 7466
+  },
+  "https://www.youtube.com/watch?v=yXQuZ4EWwjc": {
+    "title": "\u3010AFTER PARTY\u3011See you soon \u2764\ufe0f\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-09-04",
+    "views": 206908,
+    "duration": 7330
+  },
+  "https://www.youtube.com/watch?v=IAzrCwEEpeo": {
+    "title": "\u3010BOYFRIEND RP ASMR\u3011I have a surprise for you... \u2764\ufe0f\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-09-04",
+    "views": 745909,
+    "duration": 7008
+  },
+  "https://www.youtube.com/watch?v=2ayALlq4Czc": {
+    "title": "\u3010WATCHALONG w/ IKE\u3011THE LIGHTHOUSE\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-09-02",
+    "views": 225198,
+    "duration": 14797
+  },
+  "https://www.youtube.com/watch?v=xRMIFwhveeU": {
+    "title": "\u3010MINECRAFT\u3011mibuilder constructs a will to live\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-09-01",
+    "views": 158350,
+    "duration": 11402
+  },
+  "https://www.youtube.com/watch?v=_HcymVCXM1s": {
+    "title": "\u3010CULT OF THE LAMB\u3011we really are like a cult if you think about it\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-30",
+    "views": 158123,
+    "duration": 15785
+  },
+  "https://www.youtube.com/watch?v=YoCCfU_yhiY": {
+    "title": "\u3010POST-NUT RUNESCAPE\u3011So that happened...\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-28",
+    "views": 69664,
+    "duration": 5795
+  },
+  "https://www.youtube.com/watch?v=B1EAYMX74vU": {
+    "title": "\u3010TENTACLE RP ASMR\u3011Look Upon Me and Despair\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-28",
+    "views": 432177,
+    "duration": 7224
+  },
+  "https://www.youtube.com/watch?v=zDGuwdXEyr8": {
+    "title": "\u3010MADiSON\u3011definitely going in my cringe compilation\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-27",
+    "views": 170151,
+    "duration": 14772
+  },
+  "https://www.youtube.com/watch?v=WObucJaeOmc": {
+    "title": "HORROR H(USBAND)OMIES GET BLITZED\u3010Under the Table - Episode 3 Feat. IKE\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-26",
+    "views": 487330,
+    "duration": 14405
+  },
+  "https://www.youtube.com/watch?v=3GNfuT9H8dA": {
+    "title": "Counting to 10,000",
+    "publish_date": "2022-08-25",
+    "views": 335692,
+    "duration": 24997
+  },
+  "https://www.youtube.com/watch?v=O4ootmFXlJ8": {
+    "title": "Looking through remaining #AMillionKindred projects!\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-24",
+    "views": 112647,
+    "duration": 16388
+  },
+  "https://www.youtube.com/watch?v=vEJAuMUEPUM": {
+    "title": "We made a NIJI EN CPU Tournament \u3010Feat. FULGUR\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-23",
+    "views": 217627,
+    "duration": 10994
+  },
+  "https://www.youtube.com/watch?v=G8Mc3J66LX8": {
+    "title": "\u3010POST-NUT RUNESCAPE\u3011bossing and chatting about that ASMR\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-21",
+    "views": 100992,
+    "duration": 8818
+  },
+  "https://www.youtube.com/watch?v=LQny7vnjH9M": {
+    "title": "\u3010SLEEP ASMR\u3011You Seem Tired, Come Rest in my Forest\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-21",
+    "views": 275155,
+    "duration": 7247
+  },
+  "https://www.youtube.com/watch?v=pJdifFThX1w": {
+    "title": "\u3010AMONG US vs NIJI EN\u3011premeditated murder\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-20",
+    "views": 222541,
+    "duration": 13343
+  },
+  "https://www.youtube.com/watch?v=Hhdb16FG2dY": {
+    "title": "\u3010LUXIEM vs NOCTYX CHIVALRY\u3011with them by my side, nothing can stop me\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-19",
+    "views": 117875,
+    "duration": 7184
+  },
+  "https://www.youtube.com/watch?v=Ug81a0Xpd-A": {
+    "title": "\u3010FALL GUYS\u3011if i dont win today i will become a fall guy irl, dying swiftly\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-18",
+    "views": 164067,
+    "duration": 13714
+  },
+  "https://www.youtube.com/watch?v=yd5TkTLqABE": {
+    "title": "SHE WANTS TO BREAK ME?\u3010Under the Table - Episode 2\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-17",
+    "views": 243284,
+    "duration": 10033
+  },
+  "https://www.youtube.com/watch?v=KKDrdY-5JOk": {
+    "title": "\u3010TOWER OF FANTASY RELEASE SPECIAL\u3011it's here\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-16",
+    "views": 65030,
+    "duration": 7645
+  },
+  "https://www.youtube.com/watch?v=PjcCNrqziWk": {
+    "title": "VOX AKUMA WAKE UP THERE'S A MORTUARY ASSISTANT BEHIND YOU OH GOD HE HAS HIS AIRPODS IN",
+    "publish_date": "2022-08-16",
+    "views": 220791,
+    "duration": 9403
+  },
+  "https://www.youtube.com/watch?v=UncYa_wGLQI": {
+    "title": "welcome home cheater\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-16",
+    "views": 148128,
+    "duration": 5146
+  },
+  "https://www.youtube.com/watch?v=Y6H3UztyXBA": {
+    "title": "\u3010NIJI EN OBJECTIVE POWER TIER LIST w/ REN\u3011your faves will be bullied\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-09",
+    "views": 587291,
+    "duration": 12789
+  },
+  "https://www.youtube.com/watch?v=zhjs7kUCHDI": {
+    "title": "\u3010MINECRAFT\u3011i think i died and lost everything\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-08",
+    "views": 294862,
+    "duration": 21623
+  },
+  "https://www.youtube.com/watch?v=yL2sGESTta4": {
+    "title": "\u3010DRAGON RP ASMR\u3011You're Making Me Hungry...\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-07",
+    "views": 465809,
+    "duration": 6919
+  },
+  "https://www.youtube.com/watch?v=8oZQZAvvHdQ": {
+    "title": "\u3010CHIVALRY II w/ LUXIEM\u3011knight akuma revenge arc\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-04",
+    "views": 161706,
+    "duration": 9537
+  },
+  "https://www.youtube.com/watch?v=CUXHpuBByOg": {
+    "title": "\u3010FALL GUYS\u3011woo\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-08-02",
+    "views": 191031,
+    "duration": 11886
+  },
+  "https://www.youtube.com/watch?v=yXu-_Va2U0E": {
+    "title": "group cry session",
+    "publish_date": "2022-08-01",
+    "views": 178245,
+    "duration": 7505
+  },
+  "https://www.youtube.com/watch?v=9bvYoH2j9_s": {
+    "title": "\u3010KNIGHT RP ASMR\u3011You Will Have My Sword\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-31",
+    "views": 306396,
+    "duration": 7062
+  },
+  "https://www.youtube.com/watch?v=aZIjqOTOBn8": {
+    "title": "GETTING DRUNK WITH SHOTO \u3010Under the Table - Pilot Episode\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-30",
+    "views": 911460,
+    "duration": 11778
+  },
+  "https://www.youtube.com/watch?v=Q-FZlFazEA8": {
+    "title": "\u3010STRAY\u3011The Rise of AkuNya (TM)\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-29",
+    "views": 240377,
+    "duration": 22272
+  },
+  "https://www.youtube.com/watch?v=eZwrBsnJzyg": {
+    "title": "What are Vox Akuma's Favourite Movies?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-27",
+    "views": 147834,
+    "duration": 7584
+  },
+  "https://www.youtube.com/watch?v=JuaAyzzRgOk": {
+    "title": "\u3010#AMillionKindred\u301124 HOURS TO GET 1M SUBS MARATHON PART 2\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-24",
+    "views": 545463,
+    "duration": 42900
+  },
+  "https://www.youtube.com/watch?v=iqcYbfTvxts": {
+    "title": "\u3010#AMillionKindred\u301124 HOURS TO GET 1M SUBS MARATHON\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-24",
+    "views": 757238,
+    "duration": 42900
+  },
+  "https://www.youtube.com/watch?v=XQY9t56By24": {
+    "title": "\u3010NIDHOGG 2 w/ SONNY\u3011this is for the cat, ye rat\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-23",
+    "views": 107807,
+    "duration": 8885
+  },
+  "https://www.youtube.com/watch?v=Ku8Xoy7SyU0": {
+    "title": "GOING CRAB MODE vs NIJI EN\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-21",
+    "views": 163722,
+    "duration": 9337
+  },
+  "https://www.youtube.com/watch?v=YJMYJW2RbkE": {
+    "title": "\u3010THE SIMS 4\u3011MAKING THE ILUNA HOUSE\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-20",
+    "views": 240981,
+    "duration": 8487
+  },
+  "https://www.youtube.com/watch?v=1RVwFAV1F30": {
+    "title": "\u3010RP ASMR\u3011Let me sink my teeth into you\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-17",
+    "views": 524184,
+    "duration": 7212
+  },
+  "https://www.youtube.com/watch?v=6W70DYFxQyY": {
+    "title": "\u3010VALORANT\u3011my training arc continues\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-16",
+    "views": 164833,
+    "duration": 11223
+  },
+  "https://www.youtube.com/watch?v=3fZ7BFBkKKQ": {
+    "title": "genshin impact 2.8 but every time i act up i have to do a ten pull\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-14",
+    "views": 210972,
+    "duration": 10439
+  },
+  "https://www.youtube.com/watch?v=JldMk5bl55M": {
+    "title": "\u3010DUCK SEASON\u3011let any duck who meets my gaze learn the true meaning of fear\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-13",
+    "views": 104554,
+    "duration": 7769
+  },
+  "https://www.youtube.com/watch?v=MbW6f0u3BjM": {
+    "title": "just chillin\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-12",
+    "views": 101884,
+    "duration": 4857
+  },
+  "https://www.youtube.com/watch?v=jpjfZzbLzNE": {
+    "title": "\u3010GETTING OVER IT vs LUCA & SHU\u3011once I was the learner, now I am the master\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-12",
+    "views": 160496,
+    "duration": 6011
+  },
+  "https://www.youtube.com/watch?v=X9cn6CJae-s": {
+    "title": "\u3010DONUT COUNTY\u3011ch\u00d6mp\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-11",
+    "views": 131425,
+    "duration": 7158
+  },
+  "https://www.youtube.com/watch?v=m5j046HqJSU": {
+    "title": "\u3010RP ASMR\u3011Let me capture that beautiful body of yours\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-09",
+    "views": 604747,
+    "duration": 7064
+  },
+  "https://www.youtube.com/watch?v=opDk4Fmj1G8": {
+    "title": "\ud83d\udc80",
+    "publish_date": "2022-07-08",
+    "views": 196476,
+    "duration": 8424
+  },
+  "https://www.youtube.com/watch?v=MbpfE58OUJM": {
+    "title": "\u3010BEAT SABER\u3011misword\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-07",
+    "views": 214366,
+    "duration": 8263
+  },
+  "https://www.youtube.com/watch?v=3TxfB0hgKRw": {
+    "title": "\u3010QUIZZES\u3011Love language, MBTI, and others\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-06",
+    "views": 171318,
+    "duration": 7783
+  },
+  "https://www.youtube.com/watch?v=U7G6RfYSVbc": {
+    "title": "vox akuma film club\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-06",
+    "views": 146224,
+    "duration": 8532
+  },
+  "https://www.youtube.com/watch?v=aJFom7mtZrQ": {
+    "title": "\u3010RP ASMR\u3011What is my master's desire?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-04",
+    "views": 494718,
+    "duration": 7132
+  },
+  "https://www.youtube.com/watch?v=GeN3B8UNEG0": {
+    "title": "\u3010COOKING SIMULATOR VR\u3011WHERE'S THE LAMB SAUCE????\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-02",
+    "views": 215823,
+    "duration": 6792
+  },
+  "https://www.youtube.com/watch?v=anOU9aK54JE": {
+    "title": "900K CELEBRATION\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-01",
+    "views": 93856,
+    "duration": 4164
+  },
+  "https://www.youtube.com/watch?v=1EJZva4rU-Y": {
+    "title": "KILLING THE HARDEST FROMSOFT BOSS YET (I THINK?)\u3010ELDEN RING\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-07-01",
+    "views": 109860,
+    "duration": 13136
+  },
+  "https://www.youtube.com/watch?v=Rv2uR6YvhGQ": {
+    "title": "\u3010SUPER MARIO 64\u3011beating the game in one sitting, wahoo mfs\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-30",
+    "views": 180947,
+    "duration": 27836
+  },
+  "https://www.youtube.com/watch?v=JmxhrOk1zKk": {
+    "title": "\u3010THE CONVENIENCE STORE\u3011I'm talkin' big business here, pilk by the pound\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-29",
+    "views": 157204,
+    "duration": 5997
+  },
+  "https://www.youtube.com/watch?v=w7tyRVjoa3c": {
+    "title": "\u3010MINECRAFT\u3011INTERIOR TIME\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-28",
+    "views": 119798,
+    "duration": 6652
+  },
+  "https://www.youtube.com/watch?v=k7YBkxwGMW8": {
+    "title": "\u3010DRUNK CHATTING\u3011it's wine i swear\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-27",
+    "views": 405640,
+    "duration": 11904
+  },
+  "https://www.youtube.com/watch?v=GGua8Ynt_DI": {
+    "title": "\u3010RP ASMR\u3011Join me in the water\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-26",
+    "views": 623115,
+    "duration": 7430
+  },
+  "https://www.youtube.com/watch?v=YVPt1KLwLAA": {
+    "title": "\u3010Tower of Fantasy\u3011whaling in every corner of the galaxy \u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-25",
+    "views": 54971,
+    "duration": 5567
+  },
+  "https://www.youtube.com/watch?v=RP1wIS9aSVc": {
+    "title": "\u3010#NIJIDADS\u3011things were better back in our day\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-25",
+    "views": 310316,
+    "duration": 9627
+  },
+  "https://www.youtube.com/watch?v=xDajiNopzX4": {
+    "title": "\u3010FNAF VR\u3011grabbing freddy's fazballs in 4k\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-23",
+    "views": 188926,
+    "duration": 7333
+  },
+  "https://www.youtube.com/watch?v=0I9HOViCzJY": {
+    "title": "\u3010MINECRAFT\u3011insane demon continues to build castle for 20th stream in a row\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-22",
+    "views": 164081,
+    "duration": 13469
+  },
+  "https://www.youtube.com/watch?v=0872PwWpnwg": {
+    "title": "\u3010NIGHT DELIVERY\u3011order now and i'll ship you a free crate of pilk\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-21",
+    "views": 171755,
+    "duration": 5911
+  },
+  "https://www.youtube.com/watch?v=Gj3cx471v5M": {
+    "title": "\u3010PROPNIGHT w/ LUXIEM\u3011YOU'RE IN MY WORLD NOW BOYS\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-20",
+    "views": 226898,
+    "duration": 7343
+  },
+  "https://www.youtube.com/watch?v=JNn9ZxkCzU4": {
+    "title": "normalise catching up on supas and being a little sleepy\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-20",
+    "views": 116784,
+    "duration": 7933
+  },
+  "https://www.youtube.com/watch?v=guDfhDqjA1U": {
+    "title": "\u3010RP ASMR\u3011I want you on my desk by 9 AM sharp\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-19",
+    "views": 826284,
+    "duration": 7358
+  },
+  "https://www.youtube.com/watch?v=hEJWf5iKKBw": {
+    "title": "Writing a Comic w/ Merryweather!\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-18",
+    "views": 180042,
+    "duration": 8758
+  },
+  "https://www.youtube.com/watch?v=eDFl3a5Vdi8": {
+    "title": "\u3010VALORANT w/ SHOTO\u3011DEMON SLAYER TEACHES DEMON HOW TO HOPCON\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-17",
+    "views": 432478,
+    "duration": 18538
+  },
+  "https://www.youtube.com/watch?v=vJq2rbz2cI8": {
+    "title": "\u3010HANDCAM COOKING\u3011borgir,,,\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-16",
+    "views": 406554,
+    "duration": 5154
+  },
+  "https://www.youtube.com/watch?v=9M8rezjfdNs": {
+    "title": "\u3010UNPACKING\u3011mi new home\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-15",
+    "views": 447744,
+    "duration": 12825
+  },
+  "https://www.youtube.com/watch?v=FPTrhsCMx5k": {
+    "title": "I'M (almost) BACK\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-11",
+    "views": 177377,
+    "duration": 7453
+  },
+  "https://www.youtube.com/watch?v=w9KzGoTRNuE": {
+    "title": "\u3010RP ASMR\u3011I'm going away... spend one more day with me?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-05",
+    "views": 810659,
+    "duration": 7375
+  },
+  "https://www.youtube.com/watch?v=EbuMjcbn5dw": {
+    "title": "\u3010RESIDENT EVIL 2\u3011no aliens,  it's zombie time\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-03",
+    "views": 161400,
+    "duration": 13534
+  },
+  "https://www.youtube.com/watch?v=6ID3yC7e0eI": {
+    "title": "office demon files papers, loses his mind \u3010STANLEY PARABLE ULTRA DELUXE\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-02",
+    "views": 172517,
+    "duration": 15000
+  },
+  "https://www.youtube.com/watch?v=X6_R-zroVSY": {
+    "title": "\u3010EARLY MORNING ZATSU + SUPAS\u3011i love u\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-06-02",
+    "views": 103688,
+    "duration": 5728
+  },
+  "https://www.youtube.com/watch?v=QfzbgOGNqYw": {
+    "title": "\u3010THE CLOSING SHIFT\u3011would you like a glass of pilk\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-31",
+    "views": 431304,
+    "duration": 7903
+  },
+  "https://www.youtube.com/watch?v=Jyy_sHe8PnU": {
+    "title": "Addressing some serious things\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-30",
+    "views": 398954,
+    "duration": 2580
+  },
+  "https://www.youtube.com/watch?v=4w7ioq52Vgg": {
+    "title": "\u3010MINECRAFT\u3011i just wanna finish this got dang castle\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-30",
+    "views": 222490,
+    "duration": 15038
+  },
+  "https://www.youtube.com/watch?v=hulJ3tXmASQ": {
+    "title": "\u3010RP ASMR\u3011i'll be your boyfriend \u2764\ufe0f\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-29",
+    "views": 813878,
+    "duration": 7276
+  },
+  "https://www.youtube.com/watch?v=rnuTvbhnHNM": {
+    "title": "\u3010RETURN TO THE SIMS\u3011It's all gone, let's start anew...\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-27",
+    "views": 201559,
+    "duration": 10180
+  },
+  "https://www.youtube.com/watch?v=sEYKyZFl_Qc": {
+    "title": "COLLABORATION \u3010KEEP TALKING w/ SHOTO\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-26",
+    "views": 634538,
+    "duration": 12070
+  },
+  "https://www.youtube.com/watch?v=o5DmlECq__0": {
+    "title": "\u3010RESIDENT EVIL 7\u3011THERE'S ONLY ONE DADDY IN THIS HOUSE\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-25",
+    "views": 199650,
+    "duration": 15043
+  },
+  "https://www.youtube.com/watch?v=XQhAgMVNSZE": {
+    "title": "\u3010MINECRAFT\u3011More Mibuilder and maybe nether?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-23",
+    "views": 186756,
+    "duration": 19459
+  },
+  "https://www.youtube.com/watch?v=Se9bKDtmjdY": {
+    "title": "\u3010RP ASMR\u3011I'll make you better \u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-22",
+    "views": 588275,
+    "duration": 7335
+  },
+  "https://www.youtube.com/watch?v=38T-032Da7s": {
+    "title": "\u3010NARAKA: Bladepoint\u3011i used to be a swordsman you know\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-22",
+    "views": 79429,
+    "duration": 4164
+  },
+  "https://www.youtube.com/watch?v=IThXkq1sXlM": {
+    "title": "Heading Home Tomorrow...\u3010FREE TALK ABOUT THE TRIP\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-20",
+    "views": 131151,
+    "duration": 6146
+  },
+  "https://www.youtube.com/watch?v=DJWnX_mod94": {
+    "title": "I MISS YOU\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-18",
+    "views": 183504,
+    "duration": 7301
+  },
+  "https://www.youtube.com/watch?v=d24j0EliJgs": {
+    "title": "\u3010BINAURAL ASMR\u3011pov we get naked and bathe\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-15",
+    "views": 521919,
+    "duration": 6051
+  },
+  "https://www.youtube.com/watch?v=aXTJU_H13Zg": {
+    "title": "\u3010HORROR HUSBANDOS IRL w/ IKE\u3011YUME NIKKI\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-14",
+    "views": 331698,
+    "duration": 8752
+  },
+  "https://www.youtube.com/watch?v=Q0hy6ixCI4I": {
+    "title": "\u3010700K DRUNK CHATTING\u3011send me ur best pickup line hehe\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-11",
+    "views": 242425,
+    "duration": 6844
+  },
+  "https://www.youtube.com/watch?v=3f6jVKn_Tgg": {
+    "title": "\u3010MINECRAFT\u3011Step into my dungeon\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-10",
+    "views": 197585,
+    "duration": 15701
+  },
+  "https://www.youtube.com/watch?v=qNUFnuVGpf0": {
+    "title": "\u3010Cookie Run: Kingdom\u3011Is this my new Kingdom?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-09",
+    "views": 120034,
+    "duration": 4296
+  },
+  "https://www.youtube.com/watch?v=2bmdynJVnps": {
+    "title": "\u3010RESIDENT EVIL 7\u3011please scare me this time\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-09",
+    "views": 297133,
+    "duration": 14244
+  },
+  "https://www.youtube.com/watch?v=yOSHAntEKqs": {
+    "title": "\u3010RP ASMR\u3011pov i finally got some cuffs on you\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-08",
+    "views": 866624,
+    "duration": 7229
+  },
+  "https://www.youtube.com/watch?v=LSBXkIaehNM": {
+    "title": "Reading the Vox Fan Magazine and playing the Vox Fangame\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-07",
+    "views": 192341,
+    "duration": 20885
+  },
+  "https://www.youtube.com/watch?v=ONp728SauI0": {
+    "title": "angry demon screams online\u3010OVERWATCH w/ SELEN\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-06",
+    "views": 82234,
+    "duration": 14814
+  },
+  "https://www.youtube.com/watch?v=0ZcWBEakYYM": {
+    "title": "\u3010OUTLAST 2\u3011I hope this one is actually scary\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-06",
+    "views": 240828,
+    "duration": 12277
+  },
+  "https://www.youtube.com/watch?v=aALiqDSJ-oA": {
+    "title": "MIWIFI MIFIXED (I HOPE)\u3010ZATSUDAN\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-06",
+    "views": 86312,
+    "duration": 4063
+  },
+  "https://www.youtube.com/watch?v=RGlPX0SR-uE": {
+    "title": "\u3010GENSHIN IMPACT\u3011i want them all\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-03",
+    "views": 206981,
+    "duration": 8801
+  },
+  "https://www.youtube.com/watch?v=_KfkA41aI8U": {
+    "title": "\u3010MINECRAFT\u3011WITH SHADERS THIS TIME\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-02",
+    "views": 196902,
+    "duration": 14458
+  },
+  "https://www.youtube.com/watch?v=sVv-4WPygIw": {
+    "title": "Confess your sins, it'll be okay...\u3010RP ASMR\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-05-01",
+    "views": 549141,
+    "duration": 7348
+  },
+  "https://www.youtube.com/watch?v=bx7NScxrV5I": {
+    "title": "ESCAPING THE SHUBOX \u3010ESCAPE SIMULATOR W/ SHUBERT\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-30",
+    "views": 203775,
+    "duration": 12395
+  },
+  "https://www.youtube.com/watch?v=Oer_okXLi5U": {
+    "title": "\u3010AMNESIA\u3011What horrors will we find?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-28",
+    "views": 170760,
+    "duration": 15289
+  },
+  "https://www.youtube.com/watch?v=ITWAwLlTRrU": {
+    "title": "let's start a family\u3010GAME OF LIFE w/ FULGUR, MYSTA AND MILLIE\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-27",
+    "views": 225687,
+    "duration": 9307
+  },
+  "https://www.youtube.com/watch?v=DhOGOewJaOg": {
+    "title": "\u3010CUPHEAD w/ IKE\u3011time to roll the dice\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-26",
+    "views": 272135,
+    "duration": 11247
+  },
+  "https://www.youtube.com/watch?v=sKmzW84BVr8": {
+    "title": "\u3010BIRTHDAY BASH\u3011HAPPY BIRTHDAY CLAN\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-25",
+    "views": 743904,
+    "duration": 40891
+  },
+  "https://www.youtube.com/watch?v=fxTY9sTzRms": {
+    "title": "\u3010CAPTAIN AKUMA ASMR\u3011getting you where you need to go \u2764\ufe0f\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-24",
+    "views": 275645,
+    "duration": 7233
+  },
+  "https://www.youtube.com/watch?v=sbNB2GLcnbs": {
+    "title": "\u3010MINECRAFT\u3011MY KINGDOM GROWS\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-23",
+    "views": 227986,
+    "duration": 16663
+  },
+  "https://www.youtube.com/watch?v=0skM0mzdT24": {
+    "title": "\u3010JUMP KING\u3011GETTING THE BABE TODAY NO CAP\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-23",
+    "views": 86706,
+    "duration": 4233
+  },
+  "https://www.youtube.com/watch?v=o3SqTuvd37k": {
+    "title": "\u3010OVERCOOKED 2 W/ SHOTO\u3011IT'S RAW\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-22",
+    "views": 661819,
+    "duration": 13254
+  },
+  "https://www.youtube.com/watch?v=JxgDGDXLtdM": {
+    "title": "\u3010JUMP KING\u3011LET'S FINISH THIS\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-19",
+    "views": 237086,
+    "duration": 15059
+  },
+  "https://www.youtube.com/watch?v=WFIoZfDb2Iw": {
+    "title": "\u3010JUMP KING\u3011let's get the babe\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-19",
+    "views": 319229,
+    "duration": 42900
+  },
+  "https://www.youtube.com/watch?v=-GutaZgVLBQ": {
+    "title": "\u3010600K FNAF ENDURANCE\u3011NO STOPPING\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-18",
+    "views": 271576,
+    "duration": 19877
+  },
+  "https://www.youtube.com/watch?v=IlcNwUf2jDg": {
+    "title": "ASMR you're being interrogated by a demon in 1600s japan\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-17",
+    "views": 499964,
+    "duration": 6834
+  },
+  "https://www.youtube.com/watch?v=vc1O3HojImQ": {
+    "title": "\u3010MINECRAFT\u3011REBUILDING AKUMA CASTLE\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-16",
+    "views": 295544,
+    "duration": 25026
+  },
+  "https://www.youtube.com/watch?v=y6puNHu6WIo": {
+    "title": "\u3010KARAOKE SUPA CATCHUP\u3011i love u guys so much\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-15",
+    "views": 180857,
+    "duration": 10693
+  },
+  "https://www.youtube.com/watch?v=WTsYc-obMgQ": {
+    "title": "\u3010KARAOKE AFTER PARTY\u3011ok i pull up\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-14",
+    "views": 297424,
+    "duration": 5769
+  },
+  "https://www.youtube.com/watch?v=2TbfisHBh88": {
+    "title": "CREATING THE KINDRED SPECIES\u3010SPORE\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-11",
+    "views": 195923,
+    "duration": 15512
+  },
+  "https://www.youtube.com/watch?v=_qboDWn9qPQ": {
+    "title": "\u3010MINECRAFT\u3011will i be good or evil\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-10",
+    "views": 318341,
+    "duration": 25789
+  },
+  "https://www.youtube.com/watch?v=cLUSaC8TiDY": {
+    "title": "\u3010IT TAKES TWO w/ SHOTO\u3011can we finish without killing the elephant?\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-09",
+    "views": 341832,
+    "duration": 15779
+  },
+  "https://www.youtube.com/watch?v=DefssQLTt70": {
+    "title": "\u3010BINAURAL ASMR\u3011let's sleep together\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-08",
+    "views": 1367340,
+    "duration": 7972
+  },
+  "https://www.youtube.com/watch?v=lCMXA1XCKDM": {
+    "title": "Fill in the blanks!\u3010WRITING A STORY WITH CHAT\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-06",
+    "views": 162107,
+    "duration": 9531
+  },
+  "https://www.youtube.com/watch?v=Nb5NFXL7b_s": {
+    "title": "\u3010RETURNING TO GENSHIN\u3011letting my c1 zhongli out of the basement \u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-05",
+    "views": 292420,
+    "duration": 12895
+  },
+  "https://www.youtube.com/watch?v=sPZZ6MZ1UC0": {
+    "title": "\u3010GETTING OVER IT \u3011i won't let this game defeat me\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-04",
+    "views": 397418,
+    "duration": 25478
+  },
+  "https://www.youtube.com/watch?v=SWHsUFf2VE4": {
+    "title": "\u3010DRUNK ASMR\u3011Let's Taste Some New Wine Together~\u2764\ufe0f\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-03",
+    "views": 326458,
+    "duration": 8490
+  },
+  "https://www.youtube.com/watch?v=96WhhZ_n87s": {
+    "title": "\u3010HADES\u3011 IM STILL DOWN BAD FOR MEG\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-02",
+    "views": 121990,
+    "duration": 14031
+  },
+  "https://www.youtube.com/watch?v=bECmHfl4wWk": {
+    "title": "\u3010SEISO JUMP KING\u3011jumping to 522k???\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-04-01",
+    "views": 251924,
+    "duration": 19337
+  },
+  "https://www.youtube.com/watch?v=aUGhXyg4iPs": {
+    "title": "\u3010IT TAKES TWO w/ SHOTO\u3011COUPLES THERAPY SESSION 2\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-03-31",
+    "views": 494075,
+    "duration": 18179
+  },
+  "https://www.youtube.com/watch?v=h-hoHnmuaRY": {
+    "title": "\u3010500K COOKING\u3011YAOI HAND REVEAL\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-03-30",
+    "views": 668041,
+    "duration": 4658
+  },
+  "https://www.youtube.com/watch?v=ZOCKwv88mVo": {
+    "title": "I WANNA EXPLORE \u3010ENDURANCE ZATSUSCAPE\u3011\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-03-29",
+    "views": 133765,
+    "duration": 18064
+  },
+  "https://www.youtube.com/watch?v=BXO5P8M1oSU": {
+    "title": "\u3010THANK YOU FOR 500K!!!\u3011THE KINDROUGHT IS OVER\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "publish_date": "2022-03-28",
+    "views": 178463,
+    "duration": 8090
+  }
+}
