@@ -138,6 +138,7 @@ class ChatAnalysis:
             print('\r', 'Processing: ', processed_video_count, '/', len(self.video_list), end='')
             # print(f'No.{processed_video_count} Video {video} total income: {video_total_income} USD')
         print('')
+        print('')
 
     def analysis_all(self):
         """
