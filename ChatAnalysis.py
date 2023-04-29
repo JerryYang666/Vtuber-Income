@@ -24,6 +24,7 @@ class ChatAnalysis:
         :param chat_path: path to the chat folder where all the chat files are stored
         :param membership_file: path to the membership file
         """
+        self.all_prints = []
         self.total_membership_revenue = None
         self.temp_video_list_seq_count = {}
         self.word_cloud_data = None
@@ -138,7 +139,6 @@ class ChatAnalysis:
             print('\r', 'Processing: ', processed_video_count, '/', len(self.video_list), end='')
             # print(f'No.{processed_video_count} Video {video} total income: {video_total_income} USD')
         print('')
-        print('')
 
     def analysis_all(self):
         """
@@ -147,15 +147,17 @@ class ChatAnalysis:
         """
         self.analysis_paid_message()
         self.analysis_membership()
-        print('')
-        print(f'Total income on Youtube: {round(self.total_income_in_usd + self.total_membership_revenue, 2)} USD')
+        self.all_prints.append(' ')
+        self.all_prints.append(f'Total income on Youtube: {round(self.total_income_in_usd + self.total_membership_revenue, 2)} USD')
+        for print_data in self.all_prints:
+            print(print_data)
 
     def analysis_paid_message(self):
         """
         analysis and plot the paid message data
         :return:
         """
-        print(f'Total paid message revenue: {round(self.total_income_in_usd, 2)} USD')
+        self.all_prints.append(f'Total paid message revenue: {round(self.total_income_in_usd, 2)} USD')
         self.plot_income_by_currency()
         self.plot_income_by_month()
         self.plot_income_by_video()
@@ -226,9 +228,9 @@ class ChatAnalysis:
         self.total_membership_revenue = np.sum(self.membership) * self.MEMBERSHIP_PRICE
         total_num_of_members = len(self.membership)
         average_membership_length = np.mean(self.membership)
-        print(f'Total number of unique members: {total_num_of_members}')
-        print(f'Total membership revenue: ${self.total_membership_revenue:.2f}')
-        print(f'Average membership length: {average_membership_length:.4f} months')
+        self.all_prints.append(f'Total number of unique members: {total_num_of_members}')
+        self.all_prints.append(f'Total membership revenue: ${self.total_membership_revenue:.2f}')
+        self.all_prints.append(f'Average membership length: {average_membership_length:.4f} months')
         # generate bar plot data
         unique_arr = np.unique(self.membership)
         distro_arr = np.empty((0, 2))
