@@ -24,6 +24,7 @@ class ChatAnalysis:
         :param chat_path: path to the chat folder where all the chat files are stored
         :param membership_file: path to the membership file
         """
+        self.total_membership_revenue = None
         self.temp_video_list_seq_count = {}
         self.word_cloud_data = None
         self.income_usd_by_currency = {}
@@ -134,7 +135,17 @@ class ChatAnalysis:
             self.income_by_video[vid_seq] = video_total_income
             self.set_income_by_month(vid_seq[:6], video_total_income)
             processed_video_count += 1
-            print(f'No.{processed_video_count} Video {video} total income: {video_total_income} USD')
+            #print(f'No.{processed_video_count} Video {video} total income: {video_total_income} USD')
+
+    def analysis_all(self):
+        """
+        analysis and plot all the data
+        :return:
+        """
+        self.analysis_paid_message()
+        self.analysis_membership()
+        print('')
+        print(f'Total income on Youtube: {round(self.total_income_in_usd+self.total_membership_revenue, 2)} USD')
 
     def analysis_paid_message(self):
         """
@@ -143,17 +154,53 @@ class ChatAnalysis:
         """
         print(f'Total paid message revenue: {round(self.total_income_in_usd, 2)} USD')
         self.plot_income_by_currency()
+        self.plot_income_by_month()
+        self.plot_income_by_video()
+        self.plot_word_cloud()
+
+    def plot_income_by_video(self):
+        """
+        plot the income by video
+        :return:
+        """
+        sorted_data = {k: v for k, v in sorted(self.income_by_video.items())}
+        plt.figure(figsize=(18, 11))
+        plt.plot(sorted_data.keys(), sorted_data.values(), 'o-', color='#960019')
+        plt.xticks([])
+        plt.yticks(size=16)
+        plt.title('Income by video in USD', size=24)
+        plt.xlabel('Video', size=20)
+        plt.ylabel('Income in USD', size=20)
+        plt.show()
+
+    def plot_income_by_month(self):
+        """
+        plot the income by month
+        :return:
+        """
+        sorted_data = {k: v for k, v in sorted(self.income_by_month.items())}
+        plt.figure(figsize=(16, 11))
+        plt.plot(sorted_data.keys(), sorted_data.values(), 's-', color='#960019')
+        plt.xticks(rotation=45, size=16)
+        plt.yticks(size=16)
+        plt.title('Income by month in USD', size=24)
+        plt.xlabel('Month', size=20)
+        plt.ylabel('Income in USD', size=20)
+        plt.show()
 
     def plot_income_by_currency(self):
         """
         plot the income by currency
         :return:
         """
-        plt.figure(figsize=(16, 9))
-        plt.bar(self.income_usd_by_currency.keys(), self.income_usd_by_currency.values())
-        plt.title('Income by currency in USD')
-        plt.xlabel('Currency')
-        plt.ylabel('Income in USD')
+        sorted_data = {k: v for k, v in sorted(self.income_usd_by_currency.items(), key=lambda x: x[1], reverse=True)}
+        plt.figure(figsize=(16, 11))
+        plt.bar(sorted_data.keys(), sorted_data.values(), color='#960019')
+        plt.xticks(rotation=45, size=12)
+        plt.yticks(size=16)
+        plt.title('Income by currency in USD', size=24)
+        plt.xlabel('Currency', size=20)
+        plt.ylabel('Income in USD', size=20)
         plt.show()
 
     def plot_word_cloud(self):
@@ -173,11 +220,11 @@ class ChatAnalysis:
         """
         analysis the membership of the channel, plot a bar plot of the membership length
         """
-        total_membership_revenue = np.sum(self.membership) * self.MEMBERSHIP_PRICE
+        self.total_membership_revenue = np.sum(self.membership) * self.MEMBERSHIP_PRICE
         total_num_of_members = len(self.membership)
         average_membership_length = np.mean(self.membership)
         print(f'Total number of unique members: {total_num_of_members}')
-        print(f'Total membership revenue: ${total_membership_revenue:.2f}')
+        print(f'Total membership revenue: ${self.total_membership_revenue:.2f}')
         print(f'Average membership length: {average_membership_length:.4f} months')
         # generate bar plot data
         unique_arr = np.unique(self.membership)
@@ -195,6 +242,4 @@ class ChatAnalysis:
 
 
 ca = ChatAnalysis()
-print(len(ca.word_cloud_data))
-ca.analysis_paid_message()
-# ca.analysis_membership()
+ca.analysis_all()
